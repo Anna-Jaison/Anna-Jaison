@@ -39,5 +39,3 @@
 <a href="https://discord.gg/anna_jaison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anna_jaison" height="30" width="40" /></a>
 </p><br>
 
-### 🐍 Contribution snake
-![Snake animation](https://github.com/anna-jaison/anna-jaison/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
