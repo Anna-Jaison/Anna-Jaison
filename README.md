@@ -1,5 +1,5 @@
 
-<h1 align="center">Hei👋, I'm Anna Jaison</h1>
+<h1 align="center">Hei🙋🏻‍♀, I'm Anna Jaison</h1>
 <h3 align="center">Passionate| Creative| Innovator | Problem Solver</h3>
 <br>
 
@@ -9,8 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anna-jaison&label=Profile%20views&color=0e75b6&style=flat" alt="anna-jaison" /> </p>
 
 
-### 👦 About Me
-- 👨‍💻 I'm a First Year Btech Computer Science Student
+### 👩🏻 About Me
+- 👩🏻‍💻 I'm a First Year Btech Computer Science Student
 
 - 🌱 I’m currently developing and learning **HTML,CSS, Javascript and other full-stack tools.**
 
@@ -40,5 +40,4 @@
 </p><br>
 
 ### 🐍 Contribution snake
-
 
