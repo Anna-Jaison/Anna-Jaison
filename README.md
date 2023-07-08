@@ -40,4 +40,4 @@
 </p><br>
 
 ### 🐍 Contribution snake
-
+![Snake animation](https://github.com/anna-jaison/anna-jaison/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
