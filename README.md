@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently developing and learning **HTML,CSS, Javascript and other full-stack tools.**
 
-- 📫 Reach me At **annajaison2807@gmail.com**
+- 📫 Reach me at: **annajaison2807@gmail.com**
  <br>
   
 ### 🔥 My Stats
