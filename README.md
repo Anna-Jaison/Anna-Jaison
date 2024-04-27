@@ -10,7 +10,7 @@
 
 
 ### 👩🏻 About Me
-- 👩🏻‍💻 I'm a First Year Btech Computer Science Student
+- 👩🏻‍💻 I'm a Second Year Btech Computer Science Student
 
 - 🌱 I’m currently developing and learning **HTML,CSS, Javascript and other full-stack tools.**
 
