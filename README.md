@@ -19,8 +19,7 @@
   
 ### 🔥 My Stats
 <br>
-<p align="centre"><img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=react" />  
-<p align="centre"><img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=react" /> 
+<p align="left"><img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=react" /> align="right"><img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=react" /> 
 <p align="centre"><img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/anna-jaison/github-stats">
 </a>
