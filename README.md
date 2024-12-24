@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&theme=merko" alt="GitHub Activity Graph" />
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&theme=high-contrast" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anna-jaison&repo=repo-name&theme=midnight-purple" alt="Repository Card" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anna-jaison&repo=Anna-Jaison&theme=midnight-purple" alt="Repository Card" />
 </p>
 
 ---
