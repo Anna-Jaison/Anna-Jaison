@@ -23,16 +23,20 @@
 ## 🔥 My GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=github-compact" alt="GitHub Stats" />
-  <img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=github-compact" alt="GitHub Streak Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+  <img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=midnight-purple" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&theme=github-compact" alt="GitHub Activity Graph" />
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&theme=merko" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-jaison&layout=compact&theme=github-compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-jaison&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anna-jaison&repo=repo-name&theme=midnight-purple" alt="Repository Card" />
 </p>
 
 ---
@@ -72,12 +76,11 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anna-jaison&theme=github-compact&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anna-jaison&theme=onedark&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
-
 
 ## 🌐 Connect with Me
 
@@ -92,4 +95,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
-
+>
