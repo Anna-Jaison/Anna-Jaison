@@ -43,10 +43,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-jaison&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anna-jaison&repo=Anna-Jaison&theme=midnight-purple" alt="Repository Card" />
 </p>
-
+-->
 ---
 
 ## 🛠️ Languages and Tools
