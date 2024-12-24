@@ -23,8 +23,8 @@
 ## 🔥 My GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=react" alt="GitHub Streak Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=github-compact" alt="GitHub Stats" />
+  <img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=github-compact" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-jaison&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-jaison&layout=compact&theme=github-compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -72,19 +72,13 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anna-jaison&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anna-jaison&theme=github-compact&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
-## 📆 My Activity
 
-<p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Anna-Jaison&theme=github-compact" alt="Anna's Activity" />
-</p>
-
----
 ## 🌐 Connect with Me
 
 <p align="center">
