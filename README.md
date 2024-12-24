@@ -23,8 +23,7 @@
 ## 🔥 My GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
-  <img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=midnight-purple" alt="GitHub Streak Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" /> <img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=midnight-purple" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -76,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anna-jaison&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anna-jaison&theme=dark&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
