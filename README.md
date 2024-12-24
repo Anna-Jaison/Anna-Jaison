@@ -3,7 +3,7 @@
 <h3 align="center">Passionate| Creative| Innovator | Problem Solver</h3>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=1000&height=50&lines=Hello+this+is+Anna-Jaison%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=1000&height=50&lines=Hello+Its+Me+Anna-Jaison%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 <br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anna-jaison&label=Profile%20views&color=0e75b6&style=flat" alt="anna-jaison" /> </p>
@@ -19,8 +19,8 @@
   
 ### 🔥 My Stats
 <br>
-<p align="center"><img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=react" />  
-<img width="500" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=react" />
+<p align="left"><img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=react" />  
+<p align="right"><img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /></p>
 <a href="https://github.com/anna-jaison/github-stats">
 </a>
