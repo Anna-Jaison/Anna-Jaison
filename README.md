@@ -80,7 +80,6 @@
 
 
 ## 📆 My Activity
-- A dynamic activity feed showing recent commits, issues, and pull requests:
 
 [![Anna's Activity](https://activity-graph.herokuapp.com/graph?username=anna-jaison&theme=github)](https://github.com/anna-jaison)
 
