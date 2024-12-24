@@ -21,10 +21,22 @@
 ---
 
 ## 🔥 My GitHub Stats
-
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" /> 
-  <img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=midnight-purple" alt="GitHub Streak Stats" />
+  <!-- GitHub Stats -->
+  <img 
+    width="400" 
+    src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=midnight-purple" 
+    alt="Anna Jaison's GitHub Stats" 
+    onerror="this.src='https://via.placeholder.com/400x200.png?text=GitHub+Stats+Unavailable';"
+  /> 
+
+  <!-- GitHub Streak Stats -->
+  <img 
+    width="400" 
+    src="https://streak-stats.demolab.com/?user=anna-jaison&theme=midnight-purple" 
+    alt="Anna Jaison's GitHub Streak Stats" 
+    onerror="this.src='https://via.placeholder.com/400x200.png?text=Streak+Stats+Unavailable';"
+  />
 </p>
 
 <p align="center">
