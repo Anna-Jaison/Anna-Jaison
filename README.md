@@ -37,15 +37,6 @@
 
 ---
 
-## 🌟 Contributions and Achievements
-
-- 🔧 **Open Source Contributions:** Active contributor to various open-source projects, enhancing functionality and fixing bugs.
-- 🏆 **Hackathons:** Participated in multiple hackathons, showcasing innovative solutions under tight deadlines.
-- 🌍 **Community Engagement:** Member of developer communities, assisting peers, and sharing knowledge through blogs and forums.
-- ✨ **Projects:** Developed several personal and collaborative projects. Check out my repositories to explore more.
-
----
-
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -88,10 +79,12 @@
 ---
 
 
-## 📈 My Recent Activities
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" alt="Recent Activities" />
-</p>
+## 📆 My Activity
+- A dynamic activity feed showing recent commits, issues, and pull requests:
+
+[![Anna's Activity](https://activity-graph.herokuapp.com/graph?username=anna-jaison&theme=github)](https://github.com/anna-jaison)
+
+
 
 ---
 ## 🌐 Connect with Me
