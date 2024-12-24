@@ -13,8 +13,7 @@
 
 ## 👩🏻 About Me
 
-- 👩🏻‍💻 **Second-Year B.Tech Computer Science Student**
-- 🌱 Currently learning **HTML, CSS, JavaScript, and full-stack development tools**
+- 👩🏻‍💻 Dedicated to creating impactful and user-friendly software solutions
 - 🎯 Focused on building innovative and scalable solutions
 - 💬 Ask me about **coding, development, and creative problem-solving**
 - 📫 Reach me at: **[annajaison2807@gmail.com](mailto:annajaison2807@gmail.com)**
@@ -35,6 +34,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-jaison&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+## 🌟 Contributions and Achievements
+
+- 🔧 **Open Source Contributions:** Active contributor to various open-source projects, enhancing functionality and fixing bugs.
+- 🏆 **Hackathons:** Participated in multiple hackathons, showcasing innovative solutions under tight deadlines.
+- 🌍 **Community Engagement:** Member of developer communities, assisting peers, and sharing knowledge through blogs and forums.
+- ✨ **Projects:** Developed several personal and collaborative projects. Check out my repositories to explore more.
 
 ---
 
@@ -79,6 +87,13 @@
 
 ---
 
+
+## 📈 My Recent Activities
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" alt="Recent Activities" />
+</p>
+
+---
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -92,3 +107,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
+
