@@ -81,7 +81,7 @@
 
 ## 📆 My Activity
 
-[![Anna's Activity](https://activity-graph.herokuapp.com/graph?username=anna-jaison&theme=github)](https://github.com/anna-jaison)
+[![Anna's Activity](https://activity-graph.herokuapp.com/graph?username=anna-jaison&theme=github)]
 
 
 
