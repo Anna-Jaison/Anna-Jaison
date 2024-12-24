@@ -13,17 +13,18 @@
 
 ## 👩🏻 About Me
 
-- 👩‍💻 Dedicated to creating impactful and user-friendly software solutions
-- 🎯 Focused on building innovative and scalable solutions
-- 💬 Ask me about **coding, development, and creative problem-solving**
-- 📧 Reach me at: **[annajaison2807@gmail.com](mailto:annajaison2807@gmail.com)**
+- 👩‍💻 Dedicated to creating impactful and user-friendly software solutions  
+- 🎯 Focused on building innovative and scalable solutions  
+- 💬 Ask me about **coding, development, and creative problem-solving**  
+- 📧 Reach me at: **[annajaison2807@gmail.com](mailto:annajaison2807@gmail.com)**  
 
 ---
 
 ## 🔥 My GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" /> <img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=midnight-purple" alt="GitHub Streak Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" /> 
+  <img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=midnight-purple" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -94,4 +95,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
->
+
