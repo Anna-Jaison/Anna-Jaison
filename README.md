@@ -19,8 +19,8 @@
   
 ### 🔥 My Stats
 <br>
-<p align="left"><img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&bg_color=000000&color=8F00FF&line=FF13F0&point=ffffff&count_private=true&show_icons=true" /> <img width="430" src="https://streak-stats.demolab.com/?user=anna-jaison&bg_color=000000&color=8F00FF&line=FF13F0&point=ffffff" /> 
-<p align="centre"><img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&bg_color=000000&color=8F00FF&line=FF13F0&point=ffffff&area=true&hide_border=false" />
+<p align="left"><img width="400" src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=react" /> <img width="400" src="https://streak-stats.demolab.com/?user=anna-jaison&theme=react" /> 
+<p align="centre"><img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/anna-jaison/github-stats">
 </a>
 
@@ -40,4 +40,3 @@
 <a href="https://www.hackerrank.com/annajaison2807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="annajaison2807" height="30" width="40" /></a>
 <a href="https://discord.gg/anna_jaison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anna_jaison" height="30" width="40" /></a>
 </p><br>
-
