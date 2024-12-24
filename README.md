@@ -13,10 +13,10 @@
 
 ## 👩🏻 About Me
 
-- 👩🏻‍💻 Dedicated to creating impactful and user-friendly software solutions
+- 👩‍💻 Dedicated to creating impactful and user-friendly software solutions
 - 🎯 Focused on building innovative and scalable solutions
 - 💬 Ask me about **coding, development, and creative problem-solving**
-- 📫 Reach me at: **[annajaison2807@gmail.com](mailto:annajaison2807@gmail.com)**
+- 📧 Reach me at: **[annajaison2807@gmail.com](mailto:annajaison2807@gmail.com)**
 
 ---
 
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=anna-jaison&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="GitHub Activity Graph" />
+  <img width="830" src="https://github-readme-activity-graph.cyclic.app/graph?username=anna-jaison&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
@@ -78,12 +78,11 @@
 
 ---
 
-
 ## 📆 My Activity
 
-[![Anna's Activity](https://activity-graph.herokuapp.com/graph?username=anna-jaison&theme=github)]
-
-
+<p align="center">
+  <img width="830" src="https://github-readme-activity-graph.cyclic.app/graph?username=anna-jaison&theme=github" alt="Anna's Activity" />
+</p>
 
 ---
 ## 🌐 Connect with Me
@@ -99,4 +98,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
-
