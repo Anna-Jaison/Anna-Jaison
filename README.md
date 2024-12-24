@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img width="830" src="https://github-readme-activity-graph.cyclic.app/graph?username=anna-jaison&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="GitHub Activity Graph" />
+  <img width="830" src="https://github-readme-activity-graph.cyclic.app/graph?username=anna-jaison&theme=react-dark&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@
 ## 📆 My Activity
 
 <p align="center">
-  <img width="830" src="https://github-readme-activity-graph.cyclic.app/graph?username=anna-jaison&theme=github" alt="Anna's Activity" />
+  <img width="830" src="https://github-readme-activity-graph.cyclic.app/graph?username=anna-jaison&theme=react-dark" alt="Anna's Activity" />
 </p>
 
 ---
@@ -98,3 +98,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
+
