@@ -51,12 +51,9 @@
 
 ## 🛠️ Languages and Tools
 
-<h2 align="center"> 👨‍💻 Languages and Tools:</h2>
-<br />
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,figma,opencv,html,css,canva,git,discord,vscode&perline=8" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,figma,opencv,html,css,canva,git,discord,vscode&perline=5" alt="Languages and Tools" />
   </a>
 </p>
 
