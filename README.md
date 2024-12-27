@@ -89,6 +89,8 @@
 </p>
 
 ---
+## Achievements
+- ![Foundation Program Badge](https://github.com/Anna-Jaison/Anna-Jaison/blob/main/TFP%20Badges/tfp-card.png)
 
 ## 🌐 Connect with Me
 
