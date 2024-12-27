@@ -91,7 +91,7 @@
 ---
 
 ## Achievements
-<img src="https://github.com/Anna-Jaison/Anna-Jaison/blob/main/TFP%20Badges/tfp-card.png" alt="Foundation Badge" width="150" height="100">
+<img src="https://github.com/Anna-Jaison/Anna-Jaison/blob/main/TFP%20Badges/tfp-card.png" alt="Foundation Badge" width="200">
 
 
 ## 🌐 Connect with Me
