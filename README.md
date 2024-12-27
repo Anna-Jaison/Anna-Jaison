@@ -89,11 +89,16 @@
 </p>
 
 ---
+---
+## Achievements 😊 🎉
 
-## Achievements
-<img src="https://github.com/Anna-Jaison/Anna-Jaison/blob/main/TFP%20Badges/tfp-card.png" alt="Foundation Badge" width="150">
-<img src="https://github.com/Anna-Jaison/Anna-Jaison/blob/main/TFP%20Badges/tfp-card2.png" alt="Foundation Badge" width="150">
-<img src="https://github.com/Anna-Jaison/Anna-Jaison/blob/main/TFP%20Badges/tfp-card3.png" alt="Foundation Badge" width="150">
+<div style="display: flex; gap: 15px; align-items: center;">
+  <img src="https://github.com/Anna-Jaison/Anna-Jaison/blob/main/TFP%20Badges/tfp-card.png" alt="Foundation Badge 1" width="150">
+  <img src="https://github.com/Anna-Jaison/Anna-Jaison/blob/main/TFP%20Badges/tfp-card2.png" alt="Foundation Badge 2" width="150">
+  <img src="https://github.com/Anna-Jaison/Anna-Jaison/blob/main/TFP%20Badges/tfp-card3.png" alt="Foundation Badge 3" width="150">
+</div>
+
+
 ---
 
 ## 🌐 Connect with Me
