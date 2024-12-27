@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,figma,opencv,html,css,canva,git,discord,vscode&perline=5" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,figma,opencv,html,css,git,discord,vscode&perline=5" alt="Languages and Tools" />
   </a>
 </p>
 
@@ -86,13 +86,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/anna-jaison" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="120" />
   </a>
   <a href="https://www.hackerrank.com/annajaison2807" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="30" width="120" />
   </a>
   <a href="https://discord.gg/anna_jaison" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" width="120" />
+  </a>
+  <a href="https://leetcode.com/u/anna-jaison/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FC6D26?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="30" width="120" />
   </a>
 </p>
 
