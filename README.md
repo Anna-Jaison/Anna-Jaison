@@ -31,8 +31,8 @@
 <p>
   <img 
     width="400" 
-    src="https://streak-stats.demolab.com?user=anna-jaison&theme=midnight-purple" 
-    alt="Anna Jaison's GitHub Streak Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=anna-jaison&show_icons=true&theme=midnight-purple" 
+    alt="Anna Jaison's GitHub Stats" 
   />
 </p>
 
