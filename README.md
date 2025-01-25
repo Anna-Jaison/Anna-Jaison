@@ -28,9 +28,10 @@
     width="400" 
     src="https://github-readme-stats.vercel.app/api?username=anna-jaison&count_private=true&show_icons=true&theme=midnight-purple" 
     alt="Anna Jaison's GitHub Stats" 
-  /> <img 
+<p>
+  <img 
     width="400" 
-    src="https://streak-stats.demolab.com/?user=anna-jaison&theme=midnight-purple" 
+    src="https://streak-stats.demolab.com?user=anna-jaison&theme=midnight-purple" 
     alt="Anna Jaison's GitHub Streak Stats" 
   />
 </p>
